@@ -4,8 +4,7 @@
 
 ## Features
 - Endless climbing experience
-- Engaging enemies and obstacles
-- Power-ups to enhance gameplay
+- Engaging Gameplay
 
 ## Installation
 Download the game from [Itch.io](https://ggd3v.itch.io/infinitetower).
